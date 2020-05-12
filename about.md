@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is Cam Wu's blog, hope you have fun!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Name: Cam Wu
+Interested area: NLP
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wec0101@163.com]
